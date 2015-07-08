@@ -351,3 +351,13 @@ footer {
   font-size: 0.8em;
   color: gray;
 }
+.main code {
+  color: #333;
+  background-color: initial;
+}
+.main a code {
+  color: #428bca;
+}
+.main a {
+  text-decoration: underline;
+}
