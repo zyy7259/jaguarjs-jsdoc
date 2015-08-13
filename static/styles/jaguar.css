@@ -189,6 +189,7 @@ li {
 }
 .main .description ul,
 .main .description ol {
+  margin-top: 4px;
   margin-bottom: 15px;
 }
 .main .description p {
