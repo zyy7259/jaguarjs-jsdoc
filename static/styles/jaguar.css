@@ -290,7 +290,7 @@ li {
   width: 110px;
 }
 .main table .type {
-  width: 100px;
+  width: 150px;
   color: #aaa;
   font-size: 11px;
 }
@@ -358,6 +358,8 @@ footer {
 }
 .main a code {
   color: #428bca;
+  padding: 0;
+  font-size:1em;
 }
 .main a {
   text-decoration: underline;
